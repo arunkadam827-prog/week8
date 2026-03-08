@@ -5,9 +5,8 @@ Spring Boot
 
 ## Frontend
 React + Vite + TypeScript
-
-## Run Backend
-```
+## Run Backend     
+```    
 mvn spring-boot:run
 ```
 
